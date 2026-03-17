@@ -1,0 +1,3 @@
+altair
+pm4py
+streamlit
